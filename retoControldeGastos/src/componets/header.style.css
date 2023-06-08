@@ -1,0 +1,23 @@
+.nav-container {
+  background-color: aqua !important;
+  border-bottom-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+}
+.item {
+  text-decoration: none;
+  color: white;
+}
+
+.active {
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+@media (max-width: 680px) {
+  .item {
+    font-size: 12px;
+    display: none;
+  }
+}
