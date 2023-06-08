@@ -1,0 +1,118 @@
+{
+  "transaction": [
+    {
+      "id": "2",
+      "name": "Comida",
+      "amount": "100",
+      "balance": "expense",
+      "date": "06/01/2023",
+      "balanceId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Uber",
+      "amount": "200",
+      "balance": "income",
+      "date": "05/02/2023",
+      "balanceId": "1"
+    },
+    {
+      "id": "4",
+      "name": "Comida",
+      "amount": "200",
+      "balance": "expense",
+      "date": "03/03/2023",
+      "balanceId": "16"
+    },
+    {
+      "name": "Computadora",
+      "amount": "3300",
+      "balance": "income",
+      "date": "01/04/2023",
+      "balanceId": "4",
+      "id": "TfJDJxF"
+    },
+    {
+      "name": "Curso",
+      "amount": "3300",
+      "balance": "expense",
+      "date": "01/05/2023",
+      "balanceId": "4",
+      "id": "iSsmLA6"
+    },
+    {
+      "name": "Curso",
+      "amount": "200",
+      "balance": "income",
+      "date": "01/06/2023",
+      "balanceId": "4",
+      "id": "tZoX9_H"
+    },
+    {
+      "name": "Pizzas",
+      "amount": "150",
+      "balance": "income",
+      "date": "01/07/2023",
+      "balanceId": "4",
+      "id": "kBev-un"
+    },
+    {
+      "id": 49207320,
+      "name": "taxy",
+      "amount": 200,
+      "balance": "income",
+      "date": "08/08/2023"
+    },
+    {
+      "id": 23879782,
+      "name": "Comida perro",
+      "amount": 600,
+      "balance": "expense",
+      "date": "08/07/2023"
+    },
+    {
+      "name": "Despensa",
+      "amount": "350",
+      "balance": "expense",
+      "date": "01/09/2023",
+      "balanceId": "4",
+      "id": "tD0L4Rm"
+    },
+    {
+      "name": "Despensa",
+      "amount": "500",
+      "balance": "income",
+      "date": "01/10/2023",
+      "balanceId": "4",
+      "id": "4KFvhJ6"
+    },
+    {
+      "id": 92318064,
+      "name": "Viaje",
+      "amount": 100,
+      "balance": "income",
+      "date": "09/11/2023"
+    },
+    {
+      "id": 86006536,
+      "name": "DESPENSA",
+      "amount": 1000,
+      "balance": "income",
+      "date": "09/12/2023"
+    },
+    {
+      "id": 45321765,
+      "name": "Cine",
+      "amount": 500,
+      "balance": "income",
+      "date": "08/06/2023"
+    },
+    {
+      "id": 33042913,
+      "name": "Gas",
+      "amount": 400,
+      "balance": "expense",
+      "date": "08/06/2023"
+    }
+  ]
+}
